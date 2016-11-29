@@ -2,7 +2,8 @@ header{text-align: center;
  	
 	background-image: url("library.jpg");
 	background-size: auto;
-	line-height: 150px;}
+	line-height: 150px;
+	margin-bottom: 0px;}
 	
 
 body{ background-image: url("old2.jpg");
@@ -10,7 +11,71 @@ body{ background-image: url("old2.jpg");
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+	}
+
+
+#prim
+{margin-top: 0;
+	padding: 0;
 }
+
+
+
+#prim ul{ list-style: none;
+	position: relative;;
+	float: left;
+	margin: 0 0px 0 0;
+	padding: 10px 0 10px 0; 
+	background: rgba(0,0,0,0.7); 
+	width: 100%;
+	}
+
+#prim ul a{
+	display: block;
+	color:black;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 20px;
+	color: white;
+	line-height: 32px;
+	padding: 0 15px;
+}	
+
+#prim ul li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0 15px 0 15px;
+}
+
+
+
+#prim ul ul{
+	display: none;
+	position: absolute;
+	top:100%;
+	left: 0;
+	background: rgba(0,0,0,0.7);
+	
+}
+
+#prim ul ul li{
+	float: none;
+	width: 300px;
+	padding: 0 10px 0 5px;
+}
+#prim ul ul a{
+	line-height: 120%;
+	padding: 10px 15px;
+}
+
+#prim ul li:hover > ul
+{display: block;}
+
+
+
+
 
 h1{	margin-top: 0;
 	font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
@@ -45,7 +110,7 @@ a{ color: black;
 	text-decoration: none;}
 a:hover{ color: rgb(128,0,128);}	
 
-nav{background: none;}
+#space{margin-top: 70px;}
 
 
 	
