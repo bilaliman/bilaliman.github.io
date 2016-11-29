@@ -1,0 +1,72 @@
+body{ background: url("tile1.jpg");
+	background-attachment: fixed;
+	}
+
+h1{ color: white;
+	text-align: center;
+	font-size: 100px;
+	margin-top: 0px;
+	background-attachment: fixed;
+	text-decoration: underline;}
+
+
+#prim
+{margin-top: 0;
+	padding: 0;
+}
+
+
+
+#prim ul{ list-style: none;
+	position: relative;;
+	float: left;
+	margin: 0 0px 0 0;
+	padding: 10px 0 10px 0; 
+	background: rgba(0,0,0,0.7); 
+	width: 100%;
+	}
+
+#prim ul a{
+	display: block;
+	color:black;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 20px;
+	color: white;
+	line-height: 32px;
+	padding: 0 15px;
+}	
+
+#prim ul li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0 15px 0 15px;
+}
+
+#prim ul ul{
+	display: none;
+	position: absolute;
+	top:100%;
+	left: 0;
+	background: rgba(0,0,0,0.7);
+	
+}
+
+#prim ul ul li{
+	float: none;
+	width: 300px;
+	padding: 0 10px 0 5px;
+}
+#prim ul ul a{
+	line-height: 120%;
+	padding: 10px 15px;
+}
+
+#prim ul li:hover > ul
+{display: block;}	
+
+
+iframe{ text-align: center;
+	display: block;
+	margin:0 auto; }
