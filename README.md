@@ -1,11 +1,11 @@
 # Iman Bilal
 
 ## About Me
-I am a final year PhD Candidate in the Department of Computer Science at Warwick University. I am working with Prof Rob Procter (Warwick University) and Prof Maria Liakata (Queen Mary University) as my supervisors. My main interests lie in the field of natural language processing and machine learning with applications in digital journalism and Responsible AI. My work focuses on automatic summarisation for social media platforms and explainability of ML models.
+I am a final year PhD Candidate in the Department of Computer Science at Warwick University. I am working with Prof Rob Procter (Warwick University & ATI) and Prof Maria Liakata (Queen Mary University London & ATI) as my supervisors. My main interests lie in the field of natural language processing and machine learning with applications in digital journalism and Responsible AI. My work focuses on automatic summarisation for social media platforms and explainability of ML models.
 
 
 ## Research Interests
-Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Summarisation, Explainable NLP, Free-text Explainability, Natural Language Generation, Social Media Applications, Machine Learning
+Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Summarisation, Explainable NLP, Free-text Explainability, Natural Language Generation, Rumour Verification, Social Media Applications, Machine Learning
 
 ## Research Projects
 * July 2022 - present Research Assistant for GoLab, Oxford University: "Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting
