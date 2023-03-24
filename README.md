@@ -1,1 +1,32 @@
-# bilaliman.github.io
+# Iman Bilal
+
+## About Me
+I am a final year PhD Candidate in the Department of Computer Science at Warwick University. I am working with Prof Rob Procter (Warwick University) and Prof Maria Liakata (Queen Mary University) as my supervisors. My main interests lie in the field of natural language processing and machine learning with applications in digital journalism and Responsible AI. My work focuses on automatic summarisation for social media platforms and explainability of ML models.
+
+
+## Research Interests
+Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Summarisation, Explainable NLP, Free-text Explainability, Natural Language Generation, Social Media Applications, Machine Learning
+
+## Research Projects
+* July 2022 - present Research Assistant for GoLab, Oxford University: "Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting
+* June 2022 - March 2023 Research Assistant for the Alan Turing Institute: "Building Transparent AI Systems: General principles and case studies from NLP"
+* October 2021 - September 2022 Enrichment Student at the Alan Turing Institute
+
+
+## Publications
+* Iman Munire Bilal, Bo Wang, Adam Tsakalidis, Dong Nguyen, Rob Procter, Maria Liakata; Template-based Abstractive Microblog Opinion Summarization. Transactions of the Association for Computational Linguistics 2022; 10 1229–1248.
+
+* Jiayu Song, Iman Munire Bilal, Adam Tsakalidis, Rob Procter, and Maria Liakata. 2022. Unsupervised Opinion Summarisation in the Wasserstein Space. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 8592–8607, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
+
+* Rabab Alkhalifa, Iman Bilal, Hsuvas Borkakoty, Jose Camacho-Collados, Romain Deveaud, Alaa El-Ebshihy, Luis Espinosa-Anke, Gabriela Gonzalez-Saez, Petra Galuščáková, Lorraine Goeuriot, Elena Kochkina, Maria Liakata, Daniel Loureiro, Harish Tayyar Madabushi, Philippe Mulhem, Florina Piroi, Martin Popel, Christophe Servan & Arkaitz Zubiaga (2023). LongEval: Longitudinal Evaluation of Model Performance at CLEF 2023. In Advances in Information Retrieval. ECIR 2023. Lecture Notes in Computer Science, vol 13982. Springer, Cham.
+
+* Adam Tsakalidis, Jenny Chim, Iman Munire Bilal, Ayah Zirikly, Dana Atzil-Slonim, Federico Nanni, Philip Resnik, Manas Gaur, Kaushik Roy, Becky Inkster, Jeff Leintz, and Maria Liakata: "Overview of the CLPsych 2022 Shared Task: Capturing Moments of Change in Longitudinal User Posts" Annual Conference of the North American Chapter of the Association for Computational Linguistics, 2022
+
+* Iman Munire Bilal, Bo Wang, Maria Liakata, Rob Procter, and Adam Tsakalidis: "Evaluation of Thematic Coherence in Microblogs" Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 2021
+
+## Teaching 
+
+* CS130: Mathematics for Computer Scientists I
+* CS131: Mathematics for Computer Scientists II
+* CS910/430: Foundations of Data Analytics
+* CS916/348: Social Informatics
