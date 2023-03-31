@@ -30,3 +30,9 @@ Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Sum
 * CS131: Mathematics for Computer Scientists II
 * CS910/430: Foundations of Data Analytics
 * CS916/348: Social Informatics
+
+## Education
+
+* 2019 - Present: PhD in Computer Science, NLP Specialisation, University of Warwick
+* 2018 - 2019: MSc in Data Analytics, University of Warwick
+* 2015 - 2018: BA (Hons) in Mathematics, University of Cambridge
