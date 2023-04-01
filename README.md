@@ -7,8 +7,9 @@ I am a final year PhD Candidate in the Department of Computer Science at Warwick
 ## Research Interests
 Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Summarisation, Explainable NLP, Free-text Explainability, Natural Language Generation, Rumour Verification, Social Media Applications, Machine Learning
 
+
 ## Research Projects
-* July 2022 - present Research Assistant for GoLab, Oxford University: "Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting
+* July 2022 - present Research Assistant for GoLab, Oxford University: "Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting"
 * June 2022 - March 2023 Research Assistant for the Alan Turing Institute: ["Building Transparent AI Systems: General principles and case studies from NLP"](https://www.turing.ac.uk/building-transparent-ai-systems-general-principles-and-case-studies-nlp)
 * October 2021 - September 2022 [Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/iman-bilal) at the Alan Turing Institute
 
@@ -24,15 +25,17 @@ Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Sum
 
 * Iman Munire Bilal, Bo Wang, Maria Liakata, Rob Procter, and Adam Tsakalidis: ["Evaluation of Thematic Coherence in Microblogs"](https://aclanthology.org/2021.acl-long.530.pdf) Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 2021
 
-## Teaching 
-
-* CS130: Mathematics for Computer Scientists I
-* CS131: Mathematics for Computer Scientists II
-* CS910/430: Foundations of Data Analytics
-* CS916/348: Social Informatics
 
 ## Education
 
 * 2019 - Present: PhD in Computer Science, NLP Specialisation, University of Warwick
 * 2018 - 2019: MSc in Data Analytics, University of Warwick
 * 2015 - 2018: BA (Hons) in Mathematics, University of Cambridge
+
+
+## Teaching 
+
+* CS130: Mathematics for Computer Scientists I
+* CS131: Mathematics for Computer Scientists II
+* CS910/430: Foundations of Data Analytics
+* CS916/348: Social Informatics
