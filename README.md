@@ -10,7 +10,7 @@ Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Sum
 
 ## Research Projects
 * August 2022 - present : Research Assistant for Mohamed bin Zayed University of Artificial Intelligence, UAE
-* July 2022 - present :  Research Assistant for GoLab, Oxford University, UK, "Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting"
+* July 2022 - present :  Research Assistant for GoLab, Oxford University, UK, ["Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting"](https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/syrocco-ml-tool/about-the-team-behind-the-syrocco-machine-learning-tool/)
 * June 2022 - March 2023 : Research Assistant for the Alan Turing Institute, UK, ["Building Transparent AI Systems: General principles and case studies from NLP"](https://www.turing.ac.uk/building-transparent-ai-systems-general-principles-and-case-studies-nlp)
 * October 2021 - September 2022 : [Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/iman-bilal) at the Alan Turing Institute
 
