@@ -29,9 +29,9 @@ Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Sum
 
 ## Education
 
-* 2019 - Present: PhD in Computer Science, NLP Specialisation, University of Warwick
-* 2018 - 2019: MSc in Data Analytics, University of Warwick
-* 2015 - 2018: BA (Hons) in Mathematics, University of Cambridge
+* December 2019 - present: PhD in Computer Science, NLP Specialisation, University of Warwick
+* October 2018 - September 2019: MSc in Data Analytics, University of Warwick
+* October 2015 - June 2018: BA (Hons) in Mathematics, University of Cambridge
 
 
 ## Teaching 
