@@ -1,7 +1,7 @@
 # Iman Bilal
 
 ## About Me
-I am a final year PhD Candidate in the Department of Computer Science at Warwick University. I am working with Prof Rob Procter (Warwick University & ATI) and Prof Maria Liakata (Queen Mary University London & ATI) as my supervisors. My main interests lie in the field of natural language processing and machine learning with applications in digital journalism and Responsible AI. My work focuses on automatic summarisation for social media platforms and explainability of ML models.
+I am a final year PhD Candidate in the Department of Computer Science at Warwick University. I am working with Prof Rob Procter (Warwick University & ATI) and Prof Maria Liakata (Queen Mary University London & ATI) as my supervisors. My main interests lie in the field of natural language processing and machine learning with applications in digital journalism and Responsible AI. My work focuses on automatic summarisation for social media platforms and explainability of ML models in fake news detection.
 
 
 ## Research Interests
@@ -9,9 +9,10 @@ Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Sum
 
 
 ## Research Projects
-* July 2022 - present Research Assistant for GoLab, Oxford University: "Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting"
-* June 2022 - March 2023 Research Assistant for the Alan Turing Institute: ["Building Transparent AI Systems: General principles and case studies from NLP"](https://www.turing.ac.uk/building-transparent-ai-systems-general-principles-and-case-studies-nlp)
-* October 2021 - September 2022 [Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/iman-bilal) at the Alan Turing Institute
+* August 2022 - present : Research Assistant for Mohamed bin Zayed University of Artificial Intelligence, UAE
+* July 2022 - present :  Research Assistant for GoLab, Oxford University, UK, "Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting"
+* June 2022 - March 2023 : Research Assistant for the Alan Turing Institute, UK, ["Building Transparent AI Systems: General principles and case studies from NLP"](https://www.turing.ac.uk/building-transparent-ai-systems-general-principles-and-case-studies-nlp)
+* October 2021 - September 2022 : [Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/iman-bilal) at the Alan Turing Institute
 
 
 ## Publications
