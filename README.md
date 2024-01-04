@@ -24,7 +24,7 @@ Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Sum
 
 * Adam Tsakalidis, Jenny Chim, Iman Munire Bilal, Ayah Zirikly, Dana Atzil-Slonim, Federico Nanni, Philip Resnik, Manas Gaur, Kaushik Roy, Becky Inkster, Jeff Leintz, and Maria Liakata: ["Overview of the CLPsych 2022 Shared Task: Capturing Moments of Change in Longitudinal User Posts"](https://aclanthology.org/2022.clpsych-1.16.pdf) Annual Conference of the North American Chapter of the Association for Computational Linguistics, 2022
 
-* Iman Munire Bilal, Bo Wang, Maria Liakata, Rob Procter, and Adam Tsakalidis: ["Evaluation of Thematic Coherence in Microblogs"](https://aclanthology.org/2021.acl-long.530.pdf) Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), 2021
+* Iman Munire Bilal, Bo Wang, Maria Liakata, Rob Procter, and Adam Tsakalidis: ["Evaluation of Thematic Coherence in Microblogs"](https://aclanthology.org/2021.acl-long.530.pdf) In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 6800–6814, Online. Association for Computational Linguistics.
 
 
 ## Education
