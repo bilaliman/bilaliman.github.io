@@ -9,13 +9,15 @@ Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Sum
 
 
 ## Research Projects
-* August 2022 - present : Research Assistant for Mohamed bin Zayed University of Artificial Intelligence, UAE
-* July 2022 - present :  Research Assistant for GoLab, Oxford University, UK, ["Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting"](https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/syrocco-ml-tool/about-the-team-behind-the-syrocco-machine-learning-tool/)
+* August 2023 - October 2023: Research Assistant for Mohamed bin Zayed University of Artificial Intelligence, UAE
+* July 2022 - July 2023 :  Research Assistant for GoLab, Oxford University, UK, ["Systematic Reviews Supercharged: Employing Machine Learning Tools to Support Systematic Review on Outcomes Based Contracting"](https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/syrocco-ml-tool/about-the-team-behind-the-syrocco-machine-learning-tool/)
 * June 2022 - March 2023 : Research Assistant for the Alan Turing Institute, UK, ["Building Transparent AI Systems: General principles and case studies from NLP"](https://www.turing.ac.uk/building-transparent-ai-systems-general-principles-and-case-studies-nlp)
 * October 2021 - September 2022 : [Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/iman-bilal) at the Alan Turing Institute, UK
 
 
 ## Publications
+* Iman Munire Bilal, Preslav Nakov, Rob Procter, Maria Liakata; Generating Unsupervised Abstractive Explanations for Rumour Verification. October 2023
+
 * Iman Munire Bilal, Bo Wang, Adam Tsakalidis, Dong Nguyen, Rob Procter, Maria Liakata; [Template-based Abstractive Microblog Opinion Summarization](https://aclanthology.org/2022.tacl-1.71.pdf). Transactions of the Association for Computational Linguistics 2022; 10 1229–1248.
 
 * Jiayu Song, Iman Munire Bilal, Adam Tsakalidis, Rob Procter, and Maria Liakata. 2022. [Unsupervised Opinion Summarisation in the Wasserstein Space](https://aclanthology.org/2022.emnlp-main.589.pdf). In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 8592–8607, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
