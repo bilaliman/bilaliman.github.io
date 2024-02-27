@@ -16,7 +16,7 @@ Natural Language Processing (NLP), Automatic Text Summarisation, Abstractive Sum
 
 
 ## Publications
-* Iman Munire Bilal, Preslav Nakov, Rob Procter, Maria Liakata; Generating Unsupervised Abstractive Explanations for Rumour Verification. October 2023
+* Iman Munire Bilal, Preslav Nakov, Rob Procter, Maria Liakata; [Generating Zero-shot Abstractive Explanations for Rumour Verification](https://arxiv.org/pdf/2401.12713.pdf). October 2023
 
 * Iman Munire Bilal, Bo Wang, Adam Tsakalidis, Dong Nguyen, Rob Procter, Maria Liakata; [Template-based Abstractive Microblog Opinion Summarization](https://aclanthology.org/2022.tacl-1.71.pdf). Transactions of the Association for Computational Linguistics 2022; 10 1229–1248.
 
